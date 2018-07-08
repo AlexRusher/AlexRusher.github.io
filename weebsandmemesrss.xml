@@ -2,6 +2,9 @@
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
 <channel>
   <title>Weebs and Memes Podcast</title>
+  <googleplay:author>Nellie-San and Alex Rusher</googleplay::author>
+  <googleplay:email>ncjeffers97@gmail.com</googleplay:email>
+  <googleplay:description>Weebs and Memes is the weekly radio show streamed live on Twitch by Alex Rusher and Nellie-san discussing anime, memes, and other current events in popular culture.</googleplay:description>
   <link>https://alexrusher.github.io/</link>
   <description>Weebs and Memes is the weekly radio show streamed live on Twitch by Alex Rusher and Nellie-san discussing anime, memes, and other current events in popular culture.</description>
   <item>
@@ -9,9 +12,8 @@
     <link>https://www.youtube.com/watch?v=xXQB-LbSqUA</link>
     <guid>https://www.youtube.com/watch?v=xXQB-LbSqUA</guid>
     <pubDate>Sat, 7 July 2018 12:00:00 PT</pubDate>
-    <description>First episode of the Weebs and Memes Podcast</description>
+    <googleplay:description>First episode of the Weebs and Memes Podcast</googleplay:description>
     <googleplay:author>Nellie-San and Alex Rusher</googleplay:author>
-    <googleplay:email>ncjeffers97@gmail.com</googleplay:email>
   </item>
 </channel>
 </rss>
