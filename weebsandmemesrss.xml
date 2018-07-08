@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
 <channel>
   <title>Weebs and Memes Podcast</title>
   <link>https://alexrusher.github.io/</link>
@@ -10,8 +10,8 @@
     <guid>https://www.youtube.com/watch?v=xXQB-LbSqUA</guid>
     <pubDate>Sat, 7 July 2018 12:00:00 PT</pubDate>
     <description>First episode of the Weebs and Memes Podcast</description>
-    <itunes:author>Nellie-San and Alex Rusher</itunes:author>
-    <itunes:email>theonlyletsplayers@gmail.com</itunes:email>
+    <googleplay:author>Nellie-San and Alex Rusher</googleplay:author>
+    <googleplay:email>theonlyletsplayers@gmail.com</googleplay:email>
   </item>
 </channel>
 </rss>
